@@ -1,0 +1,40 @@
+[Theme]
+DisplayName=no fucking way
+
+[Control Panel\Colors]
+Background=15 170 15
+ActiveTitle=255 255 255
+InactiveTitle=255 255 255
+TitleText=0 0 0
+InactiveTitleText=0 0 0
+Window=255 255 255
+WindowText=0 0 0
+Menu=240 240 240
+MenuText=0 0 0
+ButtonFace=240 240 240
+ButtonText=0 0 0
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=0
+
+[Control Panel\Desktop\WindowMetrics]
+CaptionFont=Comic Sans MS,16,400,0
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Classic.theme
+ColorStyle=NormalColor
+Size=NormalSize
+ColorScheme=Windows Classic
+
+
+[Control Panel\Desktop\WindowMetrics]
+IconTitleFont=Comic Sans MS,16,400,0
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Desktop\Icon]
+EmptyRecycleBin=%SystemRoot%\system32\imageres.dll,-109
+FullRecycleBin=%SystemRoot%\system32\imageres.dll,-54
